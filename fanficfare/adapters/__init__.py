@@ -120,6 +120,7 @@ from . import adapter_novelonlinefullcom
 from . import adapter_wwwnovelallcom
 from . import adapter_wuxiaworldxyz
 from . import adapter_novelupdatescc
+from . import adapter_novelbinme
 from . import adapter_hentaifoundrycom
 from . import adapter_mugglenetfanfictioncom
 from . import adapter_swiorgru
